@@ -10,6 +10,6 @@ services:
     env_file:
       - .env
     volumes:
-      - ./mnt:/etc/openvpn
+      - ./dist:/etc/openvpn
     cap_add:
       - NET_ADMIN
