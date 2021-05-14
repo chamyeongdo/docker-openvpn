@@ -1,4 +1,4 @@
-# Docker Openvpn
+# Docker OpenVPN
 
 ## Build Setup
 
